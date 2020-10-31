@@ -1,4 +1,4 @@
 {
     "git.ignoreLimitWarning": true,
-    "python.pythonPath": "/home/alexander/anaconda3/envs/myenv/bin/python"
+    "python.pythonPath": "/home/alexander/anaconda3/envs/machinelearning/bin/python"
 }
